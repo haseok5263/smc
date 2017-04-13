@@ -12,6 +12,6 @@ public class test1{
 
 
 
-
+작성자 : 최하석
 	}
 }
