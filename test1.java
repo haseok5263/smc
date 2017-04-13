@@ -8,6 +8,7 @@ public class test1{
 
 		System.out.println("가갸거겨고교");
 		System.out.println("20125");
+		System.out.println("computer");
 
 
 
