@@ -4,6 +4,8 @@ public class test1{
 		System.out.println("good bye BC");
 		System.out.println("수박고양이");
 		System.out.println("가갸거겨고교");
+		System.out.println("20125");
+
 
 
 
